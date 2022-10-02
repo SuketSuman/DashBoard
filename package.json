@@ -2,7 +2,7 @@
   "name": "rubick-react",
   "version": "0.0.0",
   "scripts": {
-    "dev": "vite",
+    "start": "run vite",
     "build": "vite build",
     "preview": "vite preview"
   },
