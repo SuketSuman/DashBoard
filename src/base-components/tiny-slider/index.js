@@ -1,5 +1,4 @@
-import { tns } from "tiny-slider/src/tiny-slider";
-tns = require('tiny-slider/src/tiny-slider');
+import { tns } from "tiny-slider";
 
 const init = (el, props) => {
   el.tns = tns({
